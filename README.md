@@ -1,2 +1,2 @@
 # scku
-scku natan
+ggwp
