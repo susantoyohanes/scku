@@ -19,7 +19,7 @@ CYAN='\033[0;36m'
 LIGHT='\033[0;37m'
 # ==========================================
 # Link Hosting Kalian Untuk Ssh Vpn
-akbarvpn="https://https://raw.githubusercontent.com/susantoyohanes/scku/main/ssh"
+akbarvpn="https://raw.githubusercontent.com/susantoyohanes/scku/main/ssh"
 # Link Hosting Kalian Untuk Sstp
 akbarvpnn="https://raw.githubusercontent.com/susantoyohanes/scku/main/sstp"
 # Link Hosting Kalian Untuk Ssr
