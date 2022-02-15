@@ -28,7 +28,7 @@ fi
 # By Akbar NATANVPN
 # ==================================================
 # Link Hosting Kalian
-akbarvpn="https://raw.githubusercontent.com/susantoyohanes/scku/main/ssh"
+akbarvpn="raw.githubusercontent.com/susantoyohanes/scku/main/ssh"
 
 # initialisasi var
 export DEBIAN_FRONTEND=noninteractive
