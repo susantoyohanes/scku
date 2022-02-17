@@ -31,7 +31,7 @@ DOMAIN=natanvpn.my.id
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c6)
 SUB_DOMAIN=${sub}.natanvpn.my.id
 CF_ID=susantoyohanes69@gmail.com
-CF_KEY=uZZakMZcUv7owLFjETu15XhgeJL2HcxiP8oJu5Xq
+CF_KEY=b3c7daff03fda78ac14a3c932d91eb50193d1
 set -euo pipefail
 IP=$(wget -qO- ipinfo.io/ip);
 echo "Updating DNS for ${SUB_DOMAIN}..."
